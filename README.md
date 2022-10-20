@@ -1,11 +1,11 @@
 # tiino
 Informações sobre código fonte de integração para plataforma tiino
 
-#### - Download composer 
+#### Composer
     https://getcomposer.org/download/
 
-#### - Composer
-    composer.phar install
+#### Instalação libs
+    composer install
     
 #### Token.php
     Alterar os dados abaixo, caso não possua entre em contato com contato@tunesoft.com.br
